@@ -11,6 +11,7 @@ const Header = () =>{
                 <Text fontSize="lg" fontWeight="bold">
                     Grant Ward
                 </Text>
+                <Text color="green.500">Online</Text>
             </Flex>
         </Flex>
     )
